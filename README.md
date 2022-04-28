@@ -2,7 +2,7 @@
 
 The outline of the sample program for controlling LR-USB by communication protocol is described.
 
-The purpose of this program is to control windows in python without using the DLL provided by Patlite.
+The purpose of this program is to control windows in java without using the DLL provided by Patlite.
 
 ![LR6-USB-group-s.png](https://cdn3.volusion.com/zfyub.tbqzg/v/vspfiles/photos/LR6-USBK-4T.jpg?v-cache=1627546983"LR6-USB-group-s.png")
 
@@ -15,7 +15,7 @@ The purpose of this program is to control windows in python without using the DL
  
 ## Description
 
-Ethernet Modbus TCP & TCP/IP, POE (DC48V), Alarm, Direct mount, off-white body
+USB2.0, Alarm, Direct mount, off-white body
 
 * PC or HMI controlled
 * Open architecture for custom programming (Windows® / Linux)
