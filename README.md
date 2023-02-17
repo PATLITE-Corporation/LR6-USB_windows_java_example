@@ -4,6 +4,10 @@ The outline of the sample program for controlling LR-USB by communication protoc
 
 The purpose of this program is to control windows in java without using the DLL provided by Patlite.
 
+If you have any enquiries about sample source code or our products, please contact us from below the URL.
+
+< https://www.patlite.com/contact/english/input.html >
+
 ![LR6-USB-group-s.png](https://cdn3.volusion.com/zfyub.tbqzg/v/vspfiles/photos/LR6-USBK-4T.jpg?v-cache=1627546983"LR6-USB-group-s.png")
 
 
@@ -45,4 +49,4 @@ USB2.0, Alarm, Direct mount, off-white body
 |CONFORMITY STANDARDS|EMC Directive, RoHS, UL, FCC, KC|
 |PROTECTION RATINGS|IP65 (IEC 60529), except when pole or wall mounted. NEMA Type 4X, 13|
 
-windows are trademarks or registered trademarks of Microsoft Coporation.
+Visual studio and windows are trademarks or registered trademarks of Microsoft Coporation.
